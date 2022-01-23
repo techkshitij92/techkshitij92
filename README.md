@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techkshitij92" alt="techkshitij92" /></a> </p>
 
-- 🔭 I’m currently working on [Xploit Blogs](soon.)
+- 🔭 I’m currently working on Projects in Django and Kotlin.(soon.)
 
-- 🌱 I’m currently learning **Java,Dart and Flutter**
+- 🌱 I’m currently learning **Android Development @Kotlin**
 
 - 💬 Ask me about **"How to keep sleeping?"**
 
