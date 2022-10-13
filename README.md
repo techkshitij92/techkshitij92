@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Projects in Python.
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Android and Python**
 
 - 💬 Ask me about **"How to keep sleeping?"**
 
